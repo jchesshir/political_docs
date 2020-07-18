@@ -5,11 +5,8 @@ By trade, I am a Software Engineer with a passion for Test Automation.  But I am
 I am just getting into the practice of writing, though, and as I want to make sure I make full use of GitHub's and Jekyll's abilities, I'm going to leave this README.md file mostly the way it was by default for now.  Check back to see any additions I've made.  Hopefully, it will keep looking better as time goes by.
 
 
-
-
-You can use the [editor on GitHub](https://github.com/jchesshir/political_docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###Opening article
+Let's get started with a fairly lighthearted article on [Traffic Lights and Good Sense](https://github.com/jchesshir/political_docs/traffic_lights.md).
 
 ### Markdown
 
@@ -37,7 +34,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jchesshir/political_docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected. The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Support or Contact
 
