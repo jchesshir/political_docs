@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to John Phillip Chesshir's Political pages
+
+By trade, I am a Software Engineer with a passion for Test Automation.  But I am also a disciple of Jesus Christ, a husband and father of 5 children, and an American who tends to be on the conservative side of the political spectrum.
+
+I am just getting into the practice of writing, though, and as I want to make sure I make full use of GitHub's and Jekyll's abilities, I'm going to leave this README.md file mostly the way it was by default for now.  Check back to see any additions I've made.  Hopefully, it will keep looking better as time goes by.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/jchesshir/political_docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
