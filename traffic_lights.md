@@ -56,7 +56,7 @@ Well, maybe we should have to worry about it.  After all, the important thing is
 Which brings me to the more deadly aspect of traffic lights...
 
 #### Fresh green lights.
-As I've stated before, the most annoying aspect of traffic lights is that we are trained to stop at a red light for opposing traffic, even when we can see that none is coming.  But the inverse is the most deadly aspect.  We are also trained to go ignore opposing traffic when we see a green light....even if we could see some coming if we looked!
+As I've stated before, the most annoying aspect of traffic lights is that we are trained to stop at a red light for opposing traffic, even when we can see that none is coming.  But the converse is the most deadly aspect.  We are also trained to go ignore opposing traffic when we see a green light....even if we could see some coming if we looked!
 
 But we're not looking.  Why should we?  If the light is red, even if no traffic is coming, we still aren't permitted to go until it turns green.  So we become laser focused on the red light.  We also might even check the opposing traffic's light, if we can see it, to see when it turns to yellow and then to red, so that we can be ready to go just as soon as our light turns green.
 
