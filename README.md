@@ -6,7 +6,7 @@ I am just getting into the practice of writing, though, and as I want to make su
 
 
 ###Opening article
-Let's get started with a fairly lighthearted article on [Traffic Lights and Good Sense](https://github.com/jchesshir/political_docs/blob/master/traffic_lights.md).
+Let's get started with a fairly lighthearted article on [Traffic Lights and Good Sense](traffic_lights.md).
 
 ### Markdown
 
