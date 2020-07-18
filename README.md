@@ -4,5 +4,5 @@ By trade, I am a Software Engineer with a passion for Test Automation.  But I am
 
 I am just getting into the practice of writing, though.  Hopefully, it will keep looking better as time goes by.
 
-###Opening article
+### Opening article
 Let's get started with a fairly lighthearted article on [Traffic Lights and Good Sense](traffic_lights.md).
