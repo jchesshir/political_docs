@@ -51,9 +51,9 @@ But people are actually much more likely to accidentally run stop signs than the
 
 On the other hand, opposing traffic is much more likely to see and stop at a red light.  So we don't have to worry about that when we have had a long green light.  Just as long as the light doesn't turn yellow, we don't have to worry about opposing traffic popping out in front of us.
 
-Well, maybe we should have to worry about it.  After all, the important thing is not that everyone is following the letter of the law, but that more people are driving safely.  Maybe if we have to be aware of the possiblity that someone might pull out in front of us before the light turns red, or even yellow, we'll also be more aware that someone might pull out in front of us elsewhere on the road as well!
+Well, maybe we should have to worry about it.  After all, the important thing is not that everyone is following the letter of the law, but that more people are driving safely.  Maybe if we have to be aware of the possiblity that someone might pull out in front of us before the light turns red (or even yellow) we'll also be more aware that someone might pull out in front of us elsewhere on the road as well!
 
-Which brings me to the more deadly aspect of traffic lights...
+Speaking of the light turning yellow, that brings me to the more deadly aspect of traffic lights...
 
 #### Fresh green lights.
 As I've stated before, the most annoying aspect of traffic lights is that we are trained to stop at a red light for opposing traffic, even when we can see that none is coming.  But the converse is the most deadly aspect.  We are also trained to go at a green light and ignore opposing traffic....even if we could see some coming if we looked!
