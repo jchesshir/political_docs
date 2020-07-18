@@ -77,7 +77,7 @@ Now to _drive home_ my last point (pun intended), let's lighten things up by ima
 
 Now let's give this man the option of actually running that red light.
 
-> Oh man, I'm already 5 minutes late for my meeting.  HMM.  That light's still red, but I haven't seen any cars pass the intersection in several seconds.  I wonder if I can go ahead.  Let's see, is anyone coming from the right?  No.  Is anyone coming from the left? 
+> Oh man, I'm already 5 minutes late for my meeting.  HMM.  That light's still red, but I haven't seen any cars pass the intersection in several seconds.  I wonder if I can go ahead.  Let's see, is anyone coming from the right?  No.  Anyone from the left? 
 >
 > <<<< SLOW MOTION >>>>>
 >
