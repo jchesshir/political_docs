@@ -20,7 +20,7 @@ But if that was my only reason for writing this article, I'd keep quiet.  I've g
 ### Isn't this risky?
 Yes and no.  There's a cost/benefit analysis that has to be done if you're going to change a law that the entire nation has come to accept as taboo.  Aren't you going to have more wrecks if people are allowed to start running red lights?  Perhaps.  But not necessarily.
 
-You see, we're not talking about letting people just run red lights.  We're talking about letting them tempter the absolute authority of the red light with a little good sense.  If the light is red AND someone is coming, then that other car has the right of way, just the same as if it were a 2 way stop sign.  (The nice thing about a red light is that, if the opposing traffic DOESN'T stop comming, they'll eventually get the two way stop sign turned on them.)  But if the light is red and NOBODY is coming from either direction, or even if it is going to be 10+ seconds before the opposing traffic reaches the intersection, there is not that much more risk of a traffic accident happening if we are allowed to use our good sense to go ahead and go.
+You see, we're not talking about letting people just run red lights.  We're talking about letting them temper the absolute authority of the red light with a little good sense.  If the light is red AND someone is coming, then that other car has the right of way, just the same as if it were a 2 way stop sign.  (The nice thing about a red light is that, if the opposing traffic DOESN'T stop comming, they'll eventually get the two way stop sign turned on them.)  But if the light is red and NOBODY is coming from either direction, or even if it is going to be 10+ seconds before the opposing traffic reaches the intersection, there is not that much more risk of a traffic accident happening if we are allowed to use our good sense to go ahead and go.
 
 ### Where the risks will drop
 But let's conceed that there might be at least a temporary, or possibly long term increase in the risk of traffic light related accidents when we allow people to start running red lights legally.  I still contend that there is another statistic that will drop significantly: Traffic related deaths.  This will happen at a minimum of 3 place/time points at which cars reach traffic intersections:
@@ -33,7 +33,7 @@ They'll actually start watching out for crossing traffic, even when their light 
 Now that in and of itself will probably not cut down on traffic light related deaths by much.  But this second statistic will be dramatically affected.
 
 #### Two way stop signs
-I recently looked at research on what type of intersections tended to have the most traffic related deaths, and the answer surprised me.  By far, the most deadly traffic accidents are not at stop lights, but at two way stop signs.
+I recently looked at research on what type of intersections tended to have the most traffic related deaths, and the answer surprised me.  By far, the most deadly traffic accidents are not at stop lights, but at two way stop signs.  This is really personal for me.  I had a nephew who is actually part of that statistic.
 
 "Woah!" you say.  "Two way stop signs are the most deadly, and you want to start letting people treat red lights the same as two way stop signs?"  Absolutely!
 
@@ -47,7 +47,7 @@ You see, the law currently says something different about two way stop signs tha
 
 And that's assuming they actually follow the law.
 
-But people are actually much more likely to accidentally run stop signs than they are stop lights.  Stop signs are rarely hung over top of the street like traffic lights are.  Furthermore, trees tend to grow and ever so slowly hide those stop signs, and if a tree is hiding a stop sign, it is likely hiding them as you come upon that intersection as well.
+But people are actually much more likely to accidentally run stop signs than they are stop lights.  Stop signs are rarely hung over top of the street like traffic lights are.  Furthermore, trees tend to grow and ever so slowly hide those stop signs, and if a tree is hiding a stop sign, it is likely hiding the other car as you come upon that intersection as well.
 
 On the other hand, opposing traffic is much more likely to see and stop at a red light.  So we don't have to worry about that when we have had a long green light.  Just as long as the light doesn't turn yellow, we don't have to worry about opposing traffic popping out in front of us.
 
