@@ -37,7 +37,7 @@ I recently looked at research on what type of intersections tended to have the m
 
 "Woah!" you say.  "Two way stop signs are the most deadly, and you want to start letting people treat red lights the same as two way stop signs?"  Absolutely!
 
-I condend that the reason two way stop signs have become so deadly is because we have become conditioned to ignore them; Conditioned by traffic lights.  You see, traffic lights are put at intersections where it is well known that two way stop signs are getting a lot of traffic.  So even when we see a green light, we're conditioned to be on hightened alert, because it could turn yellow, and we'll have to make a decision whether we can get to and past the intersection before opposing traffic starts jumping out in front of us.
+I contend that the reason two way stop signs have become so deadly is because we have become conditioned to ignore them; Conditioned by traffic lights.  You see, traffic lights are put at intersections where it is well known that two way stop signs are getting a lot of traffic.  So even when we see a green light, we're conditioned to be on hightened alert, because it could turn yellow, and we'll have to make a decision whether we can get to and past the intersection before opposing traffic starts jumping out in front of us.
 
 But as long as the light is green, we can feel safe, because we KNOW that when the light is green, no traffic is going to cross our path, especially if it has been green for a long time.  And because we've allowed ourselves to feel confident that traffic will never cross our path while the light is green, we've also convinced ourselves that traffic will never cross our path when the opposing traffic merely has stop signs.
 
